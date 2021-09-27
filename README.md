@@ -12,12 +12,16 @@ os metodos lançaram exceção.
 Como utilizar:
 
 Em uma Classe basta chamar a classe a Classe Calculadora e o metodo que gostaria de Utilizar.<br>
-Exemplo: 
+Exemplos: 
 
 Para **Somar** dois valores: Calculadora.*SOMAR(4D, 4D);*<br>
+![Imagem Exemplo Soma](./assets/soma_image.png)
 Para **Subtrair** dois valores: Calculadora.*SUBTRAIR(4D, 4D);*<br>
+![Imagem Exemplo Soma](./assets/subtracao_image.png)
 Para **Multiplicar** dois valores: Calculadora.*MULTIPLICAR(4D, 4D);*<br>
+![Imagem Exemplo Soma](./assets/multiplicacao_image.png)
 Para **Dividir** dois valores: Calculadora.*DIVIDIR(4D, 4D);*
+![Imagem Exemplo Soma](./assets/divisao_image.png)
 
 <br>
 <br>
