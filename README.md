@@ -1,5 +1,7 @@
 # eng-sof-calc
 
+[![Java CI with Maven](https://github.com/LuccasTraumer/eng-sof-calc/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/LuccasTraumer/eng-sof-calc/actions/workflows/maven.yml)
+
 Classe Calculadora feita para matéria de **Engenharia de Software** na *Unimetrocamp Wyden*, solicitado pelo 
 Professor **Joao Ronaldo Del Ducca Cunha** (ARA0097).
 
