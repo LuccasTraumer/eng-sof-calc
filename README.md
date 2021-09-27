@@ -12,10 +12,10 @@ Como utilizar:
 Em uma Classe basta chamar a classe a Classe Calculadora e o metodo que gostaria de Utilizar.<br>
 Exemplo: 
 
-Calculadora.SOMAR(4D, 4D);
-Calculadora.SUBTRAIR(4D, 4D);
-Calculadora.MULTIPLICAR(4D, 4D);
-Calculadora.DIVIDIR(4D, 4D);
+Para **Somar** dois valores: Calculadora.*SOMAR(4D, 4D);*<br>
+Para **Subtrair** dois valores: Calculadora.*SUBTRAIR(4D, 4D);*<br>
+Para **Multiplicar** dois valores: Calculadora.*MULTIPLICAR(4D, 4D);*<br>
+Para **Dividir** dois valores: Calculadora.*DIVIDIR(4D, 4D);*
 
 <br>
 <br>
