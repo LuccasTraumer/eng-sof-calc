@@ -3,6 +3,20 @@
 Classe Calculadora feita para matéria de **Engenharia de Software** na *Unimetrocamp Wyden*, solicitado pelo 
 Professor **Joao Ronaldo Del Ducca Cunha** (ARA0097).
 
+Classe Calculadora contem 4 metodos estaticos que efetuam as 4 Operações basicas(Soma, Subtração, Divisão e Multiplicação).
+Cada metodo espera receber como parametros 2 Objetos do tipo **Double**, estes não podem ser nulos, caso sejam 
+os metodos lançaram exceção.
+
+Como utilizar:
+
+Em uma Classe basta chamar a classe a Classe Calculadora e o metodo que gostaria de Utilizar.<br>
+Exemplo: 
+
+Calculadora.SOMAR(4D, 4D);
+Calculadora.SUBTRAIR(4D, 4D);
+Calculadora.MULTIPLICAR(4D, 4D);
+Calculadora.DIVIDIR(4D, 4D);
+
 <br>
 <br>
 
